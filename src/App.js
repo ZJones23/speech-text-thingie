@@ -57,7 +57,7 @@ const handleSaveNote = () => {
 
   return (
     <>
-    <h1>Voice Notes</h1>
+    <h1>SPEECH 2 TEXT</h1>
     <div className='container'>
       <div className='box'>
     <h2>Current Note</h2>
