@@ -1,3 +1,7 @@
+A simple speech to text with note saving features I built using react and JS
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
